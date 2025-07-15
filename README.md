@@ -95,7 +95,7 @@ Certified in **CEH (Certified Ethical Hacker)** with hands-on experience in:
 
 ###  Featured Project
 
-####  [CyberFortify – SOC Lab Simulation](https://github.com/Haris-Rx/CyberFortify)
+####  [CyberFortify – SOC Lab Simulation](https://github.com/Haris-Rx/CyberFortify-Fyp)
 > Simulates a complete SOC workflow: Fortinet firewall, Suricata IDS, Wazuh SIEM, Splunk dashboards, Cisco ISE NAC.  
 > 15+ simulated red team attacks with successful detection, correlation, and alerts.
 
