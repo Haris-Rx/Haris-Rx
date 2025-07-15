@@ -42,7 +42,7 @@ A real-world SOC simulation project with 15+ attacks, real-time alerts, and laye
 ## 📫 Let's Connect
 
 - 📧 Email: [harisdawoodofficial@gmail.com](mailto:hdpro1223@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/harisdawood](www.linkedin.com/in/haris-dawood-b69195282)
+- 🔗 LinkedIn: [www.linkedin.com/in/haris-dawood-b69195282](www.linkedin.com/in/haris-dawood-b69195282)
 
 ---
 
